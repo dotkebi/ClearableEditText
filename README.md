@@ -7,3 +7,5 @@
 ----
 
 ## It doesn't work correctly.
+
+* use EditText with ImageView in RelativeLayout
